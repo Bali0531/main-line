@@ -13,5 +13,8 @@
 	- @itsqzx.hu
 
 
-# want an email or a domain?
+# Want an email or a domain?
  - contact@bali0531.hu
+ 
+# Can u support me with recieving and providing an sms?
+ - If u have a hungarian phone number, and want to help me, go to your mail and send me az email to contact@bali0531.hu with your phone number, after rackhost sends you a few digit verify code, and you need to reply me this code. 
